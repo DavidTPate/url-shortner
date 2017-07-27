@@ -1,0 +1,21 @@
+{
+  "name": "url-shortner",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DavidTPate/url-shortner.git"
+  },
+  "author": "David Pate <davidtpate@gmail.com>",
+  "license": "Apache 2.0",
+  "bugs": {
+    "url": "https://github.com/DavidTPate/url-shortner/issues"
+  },
+  "homepage": "https://github.com/DavidTPate/url-shortner#readme",
+  "dependencies": {
+  }
+}
